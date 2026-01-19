@@ -7,7 +7,7 @@ This study addresses the problem of automated arrhythmia prediction and classifi
 ## Dataset Overview
 
 Number of Instances: 452
-Number of Features: 245, including demographic attributes (age, sex, height, weight) and clinical measurements
+Number of Features: 279, including demographic attributes (age, sex, height, weight) and clinical measurements
 
 Classes: 16 total categories (normal rhythm and multiple arrhythmia types)
 
